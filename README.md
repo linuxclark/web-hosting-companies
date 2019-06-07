@@ -4,6 +4,7 @@
 * ramhost.us
 * hostigger.com
 * https://www.digiturunc.com/
+* https://www.dedimax.com AS31708 COREIX-UK-AS
 
 ==================================
 
