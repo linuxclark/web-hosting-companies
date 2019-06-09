@@ -6,7 +6,7 @@
 * https://www.digiturunc.com/
 * https://www.dedimax.com AS31708 COREIX-UK-AS
 * https://finalhosting.nl/index.php
-* https://hostcircle.com/ AS396158
+
 
 ==================================
 
