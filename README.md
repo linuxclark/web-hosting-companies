@@ -7,6 +7,7 @@
 * https://www.dedimax.com AS31708 COREIX-UK-AS
 * https://finalhosting.nl/index.php
 * https://www.hostens.com/ good alexa
+* https://www.digiturunc.com/about-us/ AS48011
 
 
 ==================================
