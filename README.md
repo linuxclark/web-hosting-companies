@@ -10,6 +10,8 @@
 * https://www.digiturunc.com/about-us/ AS48011
 * qhoster.com AS201630
 * https://www.milesweb.com/
+* https://maxserver.com AS135921 1 upstream
+
 
 
 ==================================
