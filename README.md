@@ -11,7 +11,7 @@
 * qhoster.com AS201630
 * https://www.milesweb.com/
 * https://maxserver.com AS135921 1 upstream
-
+* https://www.hostxnow.com/ prem
 
 
 ==================================
