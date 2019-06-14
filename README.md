@@ -13,6 +13,7 @@
 * https://maxserver.com AS135921 1 upstream
 * https://www.hostxnow.com/ prem
 * https://www.ssdnodes.com/v1/network.html good alexa softlayer network
+* https://www.tmdhosting.com/vps-hosting.html good alexa
 
 
 ==================================
