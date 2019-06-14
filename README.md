@@ -1,4 +1,4 @@
-* hostmantis.com
+* http://hostmantis.com
 * serveroffer.net
 * virmach.com
 * ramhost.us
