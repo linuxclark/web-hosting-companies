@@ -8,7 +8,7 @@
 * https://finalhosting.nl/index.php
 * https://www.hostens.com/ good alexa
 * https://www.digiturunc.com/about-us/ AS48011
-* qhoster.com AS201630
+* http://qhoster.com AS201630
 * https://www.milesweb.com/
 * https://maxserver.com AS135921 1 upstream
 * https://www.hostxnow.com/ prem
@@ -23,11 +23,11 @@
 * http://1asiacom.com AS19318 IS-AS-1
 * http://1stclasshosting.com AS14397 AS-DNS
 * http://2020media.com AS31493 TWENTYTWENTYMEDIA-AS
-* 247rack.com AS62731 247RACK-COM
-* 24shells.net AS55081 24SHELLS
-* 2cloud.eu AS3281 SIA_2CLOUD
-* 4d-dc.com AS31463 FourD-AS
-* 4rweb.com AS32742 4-RWEB
+* http://247rack.com AS62731 247RACK-COM
+* http://24shells.net AS55081 24SHELLS
+* http://2cloud.eu AS3281 SIA_2CLOUD
+* http://4d-dc.com AS31463 FourD-AS
+* http://4rweb.com AS32742 4-RWEB
 * 4web.ca AS32536 4WEB-CA
 * 4webspace.com AS13911 TERA-BYTE
 * a1.nl AS15703 TrueServer-AS
