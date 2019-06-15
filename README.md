@@ -16,6 +16,7 @@
 * https://www.tmdhosting.com/vps-hosting.html good alexa
 * https://www.hugeserver.com/ AS25780 
 * https://www.prolimehost.com/ wht prem
+* https://www.rivalhost.com/los-angeles-dedicated-servers/ xxxxxxxxxxxxxxxxxxx
 
 
 ==================================
