@@ -14,6 +14,8 @@
 * https://www.hostxnow.com/ prem
 * https://www.ssdnodes.com/v1/network.html good alexa softlayer network
 * https://www.tmdhosting.com/vps-hosting.html good alexa
+* https://www.hugeserver.com/ AS25780 
+* https://www.prolimehost.com/ wht prem
 
 
 ==================================
