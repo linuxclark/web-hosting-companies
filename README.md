@@ -20,6 +20,7 @@
 * https://www.gomach5.com/about xxxxxxxxxxxxxxxxxxxxxxxx
 * https://www.canspace.ca/web-hosting.html alexa
 * https://rackservice.org/america-dedicated alexa
+* https://www.bacloud.com/en/promotions AS61272
 
 
 ==================================
