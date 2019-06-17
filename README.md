@@ -24,6 +24,7 @@
 * https://unihost.com/en/dedicated/france/#filter-box alexa
 * https://www.zeptovm.com/clientarea/ AS203786
 * https://www.redswitches.com/ alexa
+* https://www.vpsserver.com/features/benchmark/ alexa
 
 
 ==================================
