@@ -27,7 +27,7 @@
 * https://www.vpsserver.com/features/benchmark/ alexa
 * https://vpsdime.com/ alexa
 * https://jonesolutions.com/fully-managed-cloud-ssd-vps/#1538108405040-3e81fc91-fb7b wht
-
+* https://www.smarthost.eu/hosting-plans-for-resellers  | AS39566
 
 ==================================
 
