@@ -25,6 +25,7 @@
 * https://www.zeptovm.com/clientarea/ AS203786
 * https://www.redswitches.com/ alexa
 * https://www.vpsserver.com/features/benchmark/ alexa
+* https://vpsdime.com/ alexa
 
 
 ==================================
