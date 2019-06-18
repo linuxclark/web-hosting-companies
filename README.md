@@ -31,7 +31,7 @@
 * https://www.smarthost.net/dedicated-servers.php inactive asn
 * https://instantdedicated.com/ alexa
 * https://www.ukdedicated.com/ AS34282 
-* https://www.rapidswitch.com/ alexa
+* https://www.rapidswitch.com/ AS20860
 
 ==================================
 
