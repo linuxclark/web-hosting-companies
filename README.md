@@ -32,6 +32,7 @@
 * https://instantdedicated.com/ alexa
 * https://www.ukdedicated.com/ AS34282 
 * https://www.rapidswitch.com/ AS20860
+* https://www.coreix.net/ AS31708
 
 ==================================
 
