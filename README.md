@@ -33,6 +33,9 @@
 * https://www.ukdedicated.com/ AS34282 
 * https://www.rapidswitch.com/ AS20860
 * https://www.coreix.net/ AS31708
+* https://www.dewlance.com/ alexa 863k
+
+
 
 ==================================
 
