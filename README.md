@@ -30,6 +30,7 @@
 * https://www.smarthost.eu/hosting-plans-for-resellers  | AS39566
 * https://www.smarthost.net/dedicated-servers.php inactive asn
 * https://instantdedicated.com/ alexa
+* https://www.ukdedicated.com/ AS34282 
 
 ==================================
 
