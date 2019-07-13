@@ -1,7 +1,7 @@
 *  https://www.webhosting.uk.com AS29550 alexa
 *  http://www.bigboxhost.com/ AS135136
 * https://www.spinservers.com/ AS396073
-* https://webslice.co.nz/dedicated-servers 
+* https://webslice.co.nz/dedicated-servers AS45179 
 * https://sitehost.nz/ AS45179 
 -----------------------------------------------
 * https://www.server24.eu/ AS34081
