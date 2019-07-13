@@ -1,5 +1,6 @@
 *  https://www.webhosting.uk.com AS29550 alexa
 *  http://www.bigboxhost.com/ AS135136
+* https://www.spinservers.com/ AS396073
 -----------------------------------------------
 * https://www.server24.eu/ AS34081
 * https://www.copahost.com/en/ AS207002
