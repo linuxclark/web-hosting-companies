@@ -1,4 +1,4 @@
-* https://serverstadium.com/ Welcome to ServerStadium, a Wow Technologies, Inc. company! While Wow Technologies (Wowrack) focuses on more enterprise setups, we also provide budget dedicated servers via ServerStadium
+* https://serverstadium.com/  ServerStadium, a Wow Technologies, Inc. company!  Wow Technologies (Wowrack) focuses on more enterprise setups, ServerStadium provide budget dedicated servers 
 -------------------------------------------------
 *  https://www.webhosting.uk.com AS29550 alexa
 *  http://www.bigboxhost.com/ AS135136
