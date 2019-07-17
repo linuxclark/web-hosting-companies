@@ -1,3 +1,5 @@
+* https://www.ssdnodes.com/ good alexa | Billed yearly , softlayer datacenter Dallas, TX  Ping/Traceroute: 74.86.116.210 
+
 * https://serverstadium.com/  ServerStadium, a Wow Technologies, Inc. company!  Wow Technologies (Wowrack) focuses on more enterprise setups, ServerStadium provide budget dedicated servers 
 -------------------------------------------------
 *  https://www.webhosting.uk.com AS29550 alexa
