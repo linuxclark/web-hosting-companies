@@ -1,3 +1,4 @@
+* https://swedendedicated.com swedendedicated.com a icmenet.com brand.  In 2018 swedendedicated  opened  new data center in Stockholm (Kista) | AS42237 
 * https://www.yourserver.se/ AS52173 | Yourserver.se is a brand of Nano IT SIA, Riga, Latvia. nano.lv
 * https://dedicatserver.ro AS3164
 * https://www.stephost.md/cart/-lang-customline061-/ AS59728 
