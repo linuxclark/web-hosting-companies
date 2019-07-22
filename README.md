@@ -1,3 +1,9 @@
+OVH operates 27 data centers around the world, United States, Australia, Singapore, Canada, France, Poland, Germany.
+OVH is a French cloud computing company that offers VPS, dedicated servers and other web services, is one of the largest web hosting providers in the world.
+
+
+
+
 * https://www.vps2day.com AS39378 | A  servinga.com   brand ,   VPS2day was acquired by servinga in 2018, a cloud provider from Germany.  Kubernetes available 
 
 
