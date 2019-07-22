@@ -7,7 +7,7 @@ OVH is a French cloud computing company that offers VPS, dedicated servers and o
 
 
 
-* https://www.vps2day.com AS39378 | A  servinga.com   brand ,   VPS2day was acquired by servinga in 2018, a cloud provider from Germany.  Kubernetes available 
+* https://www.vps2day.com AS39378 | VPS2day is a  servinga.com   brand ,   VPS2day was acquired by servinga, a cloud provider from Germany.  Kubernetes available 
 
 
 * https://swedendedicated.com swedendedicated.com a icmenet.com brand.  Started in 2006, in 2018 swedendedicated  opened  new data center in Stockholm (Kista) | AS42237 
