@@ -1,5 +1,8 @@
 OVH operates 27 data centers around the world, United States, Australia, Singapore, Canada, France, Poland, Germany.
-OVH is a French cloud computing company that offers VPS, dedicated servers and other web services, is one of the largest web hosting providers in the world.
+OVH is a French cloud computing company that offers VPS, dedicated servers and other web services, is one of the largest web hosting providers in the world. Very Good Network, DDOS protection, Cheap
+
+
+
 
 
 
