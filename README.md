@@ -386,7 +386,8 @@
 * http://hd.net.nz AS24466 HDNETNZ
 * http://heanet.ie AS1213 HEANET
 * http://heartinternet.uk AS20738 AS20738
-* http://hetzner.com AS24940 HETZNER-AS
+* http://hetzner.com AS24940 | HETZNER-AS | Began operations in 1997, Hetzner Online's operates three data center parks, Located in Nuremberg, Germany; in Falkenstein/Vogtland, Germany; and in Helsinki, Finland. Offering € 3.01 /Month cloud  with 2GB RAM. Very cheap, very reliable host. Highly recomended if you are looking for a Europe vps, cloud, dedicated server.
+  
 * http://his.com AS11604 HIS-NOC
 * http://hivelocity.net AS29802 HVC-AS
 * http://hkisl.net AS4594 HKISL-ASN
