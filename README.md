@@ -1,3 +1,6 @@
+* https://www.vps2day.com AS39378 | A  servinga.com   brand ,   VPS2day was acquired by servinga in 2018, a cloud provider from Germany.  Kubernetes available from 2018
+
+
 * https://swedendedicated.com swedendedicated.com a icmenet.com brand.  Started in 2006, in 2018 swedendedicated  opened  new data center in Stockholm (Kista) | AS42237 
 * https://www.yourserver.se/ AS52173 | Yourserver.se is a brand of Nano IT SIA, Riga, Latvia. nano.lv
 * https://dedicatserver.ro AS3164
