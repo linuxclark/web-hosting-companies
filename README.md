@@ -1,11 +1,11 @@
 OVH operates 27 data centers around the world, United States, Australia, Singapore, Canada, France, Poland, Germany.
 OVH is a French cloud computing company that offers VPS, dedicated servers and other web services, is one of the largest web hosting providers in the world. Very Good Network, DDOS protection, Cheap
 
+*http://sequentialnetworks.co.uk upstream 1 | descdesc Founded in 2012, Privately owned Sequential Networks Limited,  a Consultancy Managed IT Services Provider. Offering businesses Cloud hosting, Colocation, Connectivity, Dedicated Services and Managed Services, based in london uk with European and Worldwide Coverage.
 
 
 
-
-
+==============================================
 * https://www.real-hosts.com AS39458 alexa 9 million, not many people using their website / serive.
 * https://www.vps2day.com AS39378 | VPS2day is a  servinga.com   brand ,   VPS2day was acquired by servinga, a cloud provider from Germany.  Kubernetes available 
 
