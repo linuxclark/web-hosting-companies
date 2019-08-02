@@ -7,8 +7,9 @@ Choopa is Data Center operator in Piscataway, New Jersey
 
 OVH operates 27 data centers around the world, United States, Australia, Singapore, Canada, France, Poland, Germany.
 OVH is a French cloud computing company that offers VPS, dedicated servers and other web services, is one of the largest web hosting providers in the world. Very Good Network, DDOS protection, Cheap
+* https://www.kamatera.com Cloud provider offers $4/month vps cloud from 13 locations.
 
-*http://sequentialnetworks.co.uk upstream 1 | descdesc Founded in 2012, Privately owned Sequential Networks Limited,  a Consultancy Managed IT Services Provider. Offering businesses Cloud hosting, Colocation, Connectivity, Dedicated Services and Managed Services, based in london uk with European and Worldwide Coverage.
+* http://sequentialnetworks.co.uk upstream 1 | descdesc Founded in 2012, Privately owned Sequential Networks Limited,  a Consultancy Managed IT Services Provider. Offering businesses Cloud hosting, Colocation, Connectivity, Dedicated Services and Managed Services, based in london uk with European and Worldwide Coverage.
 
 
 
